@@ -6,6 +6,7 @@
     "path": "^0.12.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-portal-advanced": "^0.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -32,12 +33,12 @@
     ]
   },
   "devDependencies": {
-    "babel-preset-react": "^6.24.1",
-    "@storybook/react": "^5.0.11",
+    "@babel/core": "^7.4.4",
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11",
-    "@babel/core": "^7.4.4",
-    "babel-loader": "^8.0.6"
+    "@storybook/react": "^5.0.11",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react": "^6.24.1"
   }
 }

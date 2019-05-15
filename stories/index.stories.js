@@ -1,7 +1,7 @@
 import React from "react";
 
 import { storiesOf } from "@storybook/react";
-import Modal from "react-portal-ayesha";
+import Modal from "react-portal-advanced";
 import WithoutTrigger from "../src/components/WithoutTrigger";
 import OpenCloseCB from "../src/components/OpenCloseCB";
 import Size from "../src/components/Size";

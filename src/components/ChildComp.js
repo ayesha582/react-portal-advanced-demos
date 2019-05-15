@@ -1,5 +1,5 @@
 import React from "react";
-import Modal from "react-portal-ayesha";
+import Modal from "react-portal-advanced";
 const node = document.getElementById("root");
 
 const Child = ({close,...rest}) =>{

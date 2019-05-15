@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Modal from 'react-portal-ayesha';
+import Modal from 'react-portal-advanced';
 
 const portalDiv = document.getElementById('portal-div');
 
