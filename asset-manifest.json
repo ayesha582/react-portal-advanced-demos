@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portal-advanced-demos/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-portal-advanced-demos/static/js/main.3dbbbc37.chunk.js",
+    "main.js.map": "/react-portal-advanced-demos/static/js/main.3dbbbc37.chunk.js.map",
+    "runtime~main.js": "/react-portal-advanced-demos/static/js/runtime~main.b9997a70.js",
+    "runtime~main.js.map": "/react-portal-advanced-demos/static/js/runtime~main.b9997a70.js.map",
+    "static/js/2.4b0ddb9f.chunk.js": "/react-portal-advanced-demos/static/js/2.4b0ddb9f.chunk.js",
+    "static/js/2.4b0ddb9f.chunk.js.map": "/react-portal-advanced-demos/static/js/2.4b0ddb9f.chunk.js.map",
+    "index.html": "/react-portal-advanced-demos/index.html",
+    "precache-manifest.88caf26de968b3b0c45cbbfbd09c69ae.js": "/react-portal-advanced-demos/precache-manifest.88caf26de968b3b0c45cbbfbd09c69ae.js",
+    "service-worker.js": "/react-portal-advanced-demos/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-portal-advanced-demos/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-portal-advanced-demos/static/media/logo.5d5d9eef.svg"
+  }
+}
