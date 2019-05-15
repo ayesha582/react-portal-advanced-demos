@@ -1,0 +1,31 @@
+.prop-card{
+    display:flex;
+    flex-direction: column;
+    border-bottom: 1px solid #cecece;
+}
+
+.prop-card > div{
+    margin: 7px 0;
+}
+
+.prop-card > .title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.prop-card > .type{
+    font-size: 16px;
+}
+
+.prop-card > .required{
+    font-size: 16px;
+}
+.prop-card > .desc{
+    font-size: 16px;
+    background-color: #f1f1f1;
+    padding: 20px ;
+}
+
+
+
+/*# sourceMappingURL=main.css.map*/
