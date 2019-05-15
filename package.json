@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://ayesha582.github.io/react-portal-advanced-demos/",
   "dependencies": {
     "path": "^0.12.7",
     "react": "^16.8.6",
@@ -15,7 +16,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "NODE_PATH=src start-storybook -p 6006 -c .storybook -s ./public",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
